@@ -1,2 +1,2 @@
 # MGUS2017
-Supplementary Tables for Altrock et al., "A computational model of MGUS progression to Multiple Myeloma  identifies optimum screening strategies and their effects on mortality" 
+Supplementary Tables for Altrock et al., "Computational modeling of progression to multiple myeloma identifies optimum screening strategies" 
